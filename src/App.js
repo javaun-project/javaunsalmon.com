@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import instagramLogo from "./insta.png";
 import youtubeLogo from "./yt.png";
-import "./App.css"
+import "./App.css";
 
 class Home extends Component {
   constructor(props) {
@@ -16,7 +16,7 @@ class Home extends Component {
         <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={this.goToPage("Home")}>Home</a>
         <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={this.goToPage("About")}>About Me</a>
         <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={this.goToPage("Portfolio")}>Portfolio</a>
-        <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={(e) => { e.preventDefault(); window.open('https://docs.google.com/document/d/1AsrEufq9V44RcDLCTWm0pLo07HXJIzdS/edit', "_blank")}}>Resume</a>
+        <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={(e) => { e.preventDefault(); window.open('https://drive.google.com/file/d/1OZLczyHaOYpqkawN0VpDw582qmVNZwOQ/view?usp=sharing', "_blank")}}>Resume</a>
         <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={this.goToPage("Contact")}>Contact</a>
       </div>
     )
@@ -75,7 +75,7 @@ class Home extends Component {
                       JS Apps
                     </h2>
                     <p style={{fontSize: '18px'}}>
-                      This is my instagram page, built to showcase my freelancing projects with a recording and a brief overview of each project.
+                      This is my instagram page built to showcase my freelance projects with a recording and a brief overview of the project.
                     </p>
                   </div>
                 </div>
@@ -87,7 +87,7 @@ class Home extends Component {
                       My Youtube Channel
                     </h2>
                     <p style={{fontSize: '18px'}}>
-                      This is my youtube channel. It was created to show viewers how to build a basic digital animation application using the javascript library called "processing.js".
+                      This is my youtube channel. It was created to show viewers how to build a basic animation application using the processing js library.
                     </p>
                   </div>
                 </div>
