@@ -75,7 +75,7 @@ class Home extends Component {
                       JS Apps
                     </h2>
                     <p style={{fontSize: '18px'}}>
-                      This is my instagram page built to showcase my freelance projects with a recording and a brief overview of the project.
+                      This is my instagram page, built to showcase my freelancing projects with a recording and a brief overview of each project.
                     </p>
                   </div>
                 </div>
@@ -87,7 +87,7 @@ class Home extends Component {
                       My Youtube Channel
                     </h2>
                     <p style={{fontSize: '18px'}}>
-                      This is my youtube channel. It was created to show viewers how to build a basic animation application using the processing js library.
+                      This is my youtube channel. It was created to show viewers how to build a basic digital animation application using the javascript library called "processing.js".
                     </p>
                   </div>
                 </div>
