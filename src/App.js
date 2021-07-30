@@ -52,7 +52,7 @@ class Home extends Component {
               <h1 className='header-text' style={{color: 'orange', fontFamily: 'Righteous'}}>About Me</h1>.
               <div className="Sub-Intro-Text" style={{marginLeft: '20vw', marginRight: '20vw'}}>
                 <p style={{fontSize: '18px'}} >
-                  Hi! I am an entrepreneur and software developer interested in using technology to improve business processes. My goal as a software developer is to write clean, easily maintained code. I enjoy thinking creatively and critically in order to design efficient software. In my free time, I like to sharpen my skills and learn new technologies. I work best in collaborative environments where a growth-mindset is emphasized and is at the core of every project.
+                  Hi! I am an entrepreneur and software developer interested in using technology to improve business processes. My goal as a software developer is to write clean, easily maintained code. I enjoy thinking creatively and critically in order to design efficient software. In my free time, I like to sharpen my skills and learn new technologies.
                 </p>
               </div>
 
