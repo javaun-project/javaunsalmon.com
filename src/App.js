@@ -75,7 +75,7 @@ class Home extends Component {
                       JS Apps
                     </h2>
                     <p style={{fontSize: '18px'}}>
-                      This is my instagram page built to showcase my freelance projects with a recording and a brief overview of the project.
+                      This is my instagram page that I built to showcase my freelance web development projects.
                     </p>
                   </div>
                 </div>
