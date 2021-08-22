@@ -81,13 +81,13 @@ class Home extends Component {
                 </div>
 
                 <div>
-                  <a href="https://github.com/javaun123" target="_blank"><img src={youtubeLogo} style={{width: '100px', height: '100px'}}/></a>
+                  <a href="https://github.com/javaun123" target="_blank"><img src={githubLogo} style={{width: '100px', height: '100px'}}/></a>
                   <div>
                     <h2 style={{fontSize: '25px', fontFamily: 'Righteous'}}>
-                      My Youtube Channel
+                      Github Projects
                     </h2>
                     <p style={{fontSize: '18px'}}>
-                      This is my youtube channel. It was created to show viewers how to build a basic animation application using the processing js library.
+                      This is my github account where I post small projects that I developed using various web and mobile technologies.
                     </p>
                   </div>
                 </div>
