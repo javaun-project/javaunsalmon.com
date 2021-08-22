@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import instagramLogo from "./insta.png";
-import youtubeLogo from "./yt.png";
+import githubLogo from "./githubLogo.png";
 import "./App.css";
 
 class Home extends Component {
@@ -81,7 +81,7 @@ class Home extends Component {
                 </div>
 
                 <div>
-                  <a href="https://www.youtube.com/channel/UC36Ra4RhmGGSpmFaE4cb2Tw/featured" target="_blank"><img src={youtubeLogo} style={{width: '100px', height: '100px'}}/></a>
+                  <a href="https://github.com/javaun123" target="_blank"><img src={youtubeLogo} style={{width: '100px', height: '100px'}}/></a>
                   <div>
                     <h2 style={{fontSize: '25px', fontFamily: 'Righteous'}}>
                       My Youtube Channel
