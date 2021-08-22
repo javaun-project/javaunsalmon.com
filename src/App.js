@@ -71,7 +71,7 @@ class Home extends Component {
                 <div>
                   <a href="https://www.instagram.com/javaun.salmon.apps/" target="_blank"><img src={instagramLogo} style={{width: '100px', height: '100px'}}/></a>
                   <div>
-                    <h2 style={{fontSize: '25px', fontFamily: 'Righteous', textDecoration: 'underline';}}>
+                    <h2 style={{fontSize: '25px', fontFamily: 'Righteous', textDecoration: 'underline'}}>
                       JS Apps
                     </h2>
                     <p style={{fontSize: '18px'}}>
@@ -83,7 +83,7 @@ class Home extends Component {
                 <div>
                   <a href="https://github.com/javaun123" target="_blank"><img src={githubLogo} style={{width: '100px', height: '100px'}}/></a>
                   <div>
-                    <h2 style={{fontSize: '25px', fontFamily: 'Righteous', textDecoration:'underline';}}>
+                    <h2 style={{fontSize: '25px', fontFamily: 'Righteous', textDecoration:'underline'}}>
                       Github Projects
                     </h2>
                     <p style={{fontSize: '18px'}}>
