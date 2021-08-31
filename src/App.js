@@ -100,7 +100,7 @@ class Home extends Component {
 
     if(this.state.page == 'Contact'){
       return(
-        <div className="App" style={{ backgroundImage: `url(${require("./bkg2.png")})`}}>
+        <div className="App" style={{ backgroundImage: `url(${require("./bkg2.jpg")})`}}>
             <div className='Intro-Text'>
               <h1 className='header-text' style={{color: 'orange', fontFamily: 'Righteous'}}>Let's Chat!</h1>.
               <div className="Sub-Intro-Text" style={{marginLeft: '20vw', marginRight: '20vw'}}>
