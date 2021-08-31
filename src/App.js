@@ -47,7 +47,7 @@ class Home extends Component {
 
     if(this.state.page == 'About'){
       return(
-        <div className="App" style={{ backgroundImage: `url(${require("./bkg.jpg")})`}}>
+        <div className="App" style={{ backgroundImage: `url(${require("./bkg2.jpg")})`}}>
             <div className='Intro-Text'>
               <h1 className='header-text' style={{color: 'orange', fontFamily: 'Righteous'}}>About Me</h1>.
               <div className="Sub-Intro-Text" style={{marginLeft: '20vw', marginRight: '20vw'}}>
@@ -64,7 +64,7 @@ class Home extends Component {
 
     if(this.state.page == 'Portfolio'){
       return(
-        <div className="App" style={{ backgroundImage: `url(${require("./bkg.jpg")})`}}>
+        <div className="App" style={{ backgroundImage: `url(${require("./bkg2.jpg")})`}}>
             <div className='Intro-Text'>
               <h1 className='header-text' style={{color: 'orange', fontFamily: 'Righteous'}}>Portfolio</h1>.
               <div className='grid-container'>
