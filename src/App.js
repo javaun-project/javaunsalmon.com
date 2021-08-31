@@ -31,7 +31,7 @@ class Home extends Component {
     const { loading, msg } = this.state
     if(this.state.page == 'Home'){
       return (
-        <div className="App" style={{ backgroundImage: `url(${require("./bkg2.png")})`,   backgroundRepeat: no-repeat;
+        <div className="App" style={{ backgroundImage: `url(${require("./bkg2.png")})`,   backgroundRepeat: 'no-repeat';
   backgroundSize: 'cover'}}>
             <div className='Intro-Text'>
               <h1 className='Regular header-text'>Hi. My name is <span className='Bold' style={{color: 'orange'}}>Javaun Salmon</span>!</h1>.
