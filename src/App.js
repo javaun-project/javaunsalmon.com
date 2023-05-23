@@ -105,11 +105,11 @@ class Home extends Component {
               <h1 className='header-text' style={{color: 'orange', fontFamily: 'Righteous'}}>Let's Chat!</h1>.
               <div className="Sub-Intro-Text" style={{marginLeft: '20vw', marginRight: '20vw'}}>
                 <p style={{fontSize: '16px'}}>
-                  <strong>Phone:</strong> <a href="tel:6465412356" style={{color: 'orange'}}>(646)-541-2356</a>
+                  <strong>Phone:</strong> <a href="tel:3473573035" style={{color: 'orange'}}>(347)-357-3035</a>
                 </p>
 
                 <p style={{fontSize: '16px'}}>
-                  <strong>Email:</strong> <a href="mailto:js1463@g.rit.edu" style={{color: 'orange'}}>js1463@g.rit.edu</a>
+                  <strong>Email:</strong> <a href="mailto:javaunsalmon@gmail.com" style={{color: 'orange'}}>javaunsalmon@gmail.com</a>
                 </p>
 
                 <p style={{fontSize: '16px'}}>
