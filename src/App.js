@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import instagramLogo from "./insta.png";
 import githubLogo from "./githubLogo.png";
+import myPhoto from "./me.jpeg";
 import "./App.css";
 
 class Home extends Component {
@@ -33,6 +34,7 @@ class Home extends Component {
       return (
         <div className="App" style={{ backgroundImage: `url(${require("./bkg2.jpg")})`}}>
             <div className='Intro-Text'>
+              <img className='header-image' src={myPhoto} alt="Logo" />
               <h1 className='Regular header-text'>Hi. My name is <span className='Bold' style={{color: 'orange'}}>Javaun Salmon</span>!</h1>.
               <div className="Sub-Intro-Text">
                 <h3 className='Bold'>Degree: <span className='Regular'>Bachelors of Science</span></h3>
