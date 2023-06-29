@@ -1,6 +1,5 @@
 {
-  "name": "create-react-app-lambda",
-  "homepage" : "https://javaun123.github.io/javaunsalmon.com",
+  "name": "create-react-app-lambda", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,6 +37,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^5.0.0"
   }
 }
