@@ -13,6 +13,14 @@
   font-size: 3.5em
 }
 
+.header-image {
+  width: 15em;
+  border: solid 5px;
+  border-color: #ffa500;
+  border-radius: 50%;
+  margin-bottom: 2vh;
+}
+
 .Intro-Text{
   font-size: 15px
 }
