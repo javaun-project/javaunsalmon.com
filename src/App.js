@@ -16,7 +16,7 @@ class Home extends Component {
         <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={this.goToPage("Home")}>Home</a>
         <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={this.goToPage("About")}>About Me</a>
         <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={this.goToPage("Portfolio")}>Portfolio</a>
-        <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={(e) => { e.preventDefault(); window.open('https://drive.google.com/file/d/1OZLczyHaOYpqkawN0VpDw582qmVNZwOQ/view?usp=sharing', "_blank")}}>Resume</a>
+        <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={(e) => { e.preventDefault(); window.open('https://drive.google.com/file/d/13o0ph1bKsXGsLTbr2TqGqPzYAcSG2Xpx/view?usp=sharing', "_blank")}}>Resume</a>
         <a className='Home-Button-Group' href='javascript:;' style={{ borderColor: 'orange', color: 'orange', backgroundColor: 'white'}} onClick={this.goToPage("Contact")}>Contact</a>
       </div>
     )
