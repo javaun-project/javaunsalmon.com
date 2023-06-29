@@ -1,5 +1,6 @@
 {
   "name": "create-react-app-lambda",
+  "homepage" : "https://javaun123.github.io/javaunsalmon.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
