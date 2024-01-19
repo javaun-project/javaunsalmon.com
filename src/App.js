@@ -83,7 +83,7 @@ class Home extends Component {
                 </div>
 
                 <div>
-                  <a href="https://github.com/javaun123" target="_blank"><img src={githubLogo} style={{width: '100px', height: '100px'}}/></a>
+                  <a href="https://github.com/javaun-project" target="_blank"><img src={githubLogo} style={{width: '100px', height: '100px'}}/></a>
                   <div>
                     <h2 style={{fontSize: '25px', fontFamily: 'Righteous', textDecoration:'underline'}}>
                       Github Projects
